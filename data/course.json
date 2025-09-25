@@ -1,0 +1,47 @@
+{
+  "term": "Spring",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "76f0cc16-ae32-023c-a1f5-833658447732",
+  "instructors": {
+    "content": [
+      "c2ff1985-3a53-6817-6310-f9326c668333"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "664afdc9-9a6a-0d7d-e405-09f6af40d6e4",
+    "website": "9-675-the-development-of-object-and-face-recognition-spring-2006"
+  },
+  "course_title": "The Development of Object and Face Recognition",
+  "course_description": "This course takes a 'back to the beginning' view that aims to better understand the end result. What might be the developmental processes that lead to the organization of 'booming, buzzing confusions' into coherent visual objects? This course examines key experimental results and computational proposals pertinent to the discovery of objects in complex visual inputs. The structure of the course is designed to get students to learn and to focus on the genre of study as a whole; to get a feel for how science is done in this field.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.675",
+  "course_image_thumbnail": {
+    "content": "70c02aae-8c5e-a4ab-45f7-24fb5c1f1c30",
+    "website": "9-675-the-development-of-object-and-face-recognition-spring-2006"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments"
+  ],
+  "site_uid": "b51b1b35-b5c9-4e42-9f44-97de26c1d2a6",
+  "site_short_id": "9.675-spring-2006",
+  "site_url_path": "courses/9-675-the-development-of-object-and-face-recognition-spring-2006",
+  "title": "Course Metadata"
+}
