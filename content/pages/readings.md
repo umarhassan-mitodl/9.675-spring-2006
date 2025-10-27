@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides the list of required readings and suggested readings
   for each session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -355,7 +353,7 @@ Fahle, M. "Learning to Tell Apples from Oranges." _Trends in Cognitive Sciences_
 Gomez, J. "Species Comparative Studies and Cognitive Development." _Trends in Cognitive Science_ 9, no. 3 (2005): 118-125.
 {{< tdclose >}}
 {{< tdopen >}}
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/attentive-brain) Johnson, M. H. "Developing An Attentive Brain." In [_The Attentive Brain_](https://mitpress.mit.edu/books/attentive-brain). Edited by R. Parasuraman. Cambridge, MA: MIT Press, 1998, pp. 427-444. ISBN: 0262161729.  
+{{% resource_link "e4e0056c-2fe6-4c4a-8b0c-2ec1a80fc46e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Johnson, M. H. "Developing An Attentive Brain." In {{% resource_link "e4e0056c-2fe6-4c4a-8b0c-2ec1a80fc46e" "_The Attentive Brain_" %}}. Edited by R. Parasuraman. Cambridge, MA: MIT Press, 1998, pp. 427-444. ISBN: 0262161729.  
   
 Johnson, M. H., and R. O. Gilmore. "Object-centered Attention in Eight-month-old Infants." _Developmental Science_ 1 (1998): 221-225.  
   
